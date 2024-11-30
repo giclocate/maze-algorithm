@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/usuario/projeto-a-star?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/usuario/projeto-a-star?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="img/labirinto.jpeg" alt="Exemplo imagem">
 
 > O algoritmo A* é utilizado para encontrar o caminho mais curto entre dois pontos em um labirinto, levando em consideração obstáculos e a distância heurística. Este projeto foi desenvolvido em Python e usa bibliotecas como `numpy` e `matplotlib` para gerar e visualizar o labirinto.
 
@@ -70,7 +70,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/giclocate" title="Usuário">
-        <img src="img/giofoto.jpeg" width="100px;" alt="Foto do Usuário"/><br>
+        <img src="img/giofoto.jpeg" width="100px;" alt="Giovanna"/><br>
         <sub>
           <b>Giovanna Clócate</b>
         </sub>
