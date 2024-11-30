@@ -1,9 +1,5 @@
 # Algoritmo A* - Labirinto
 
-![GitHub repo size](https://img.shields.io/github/repo-size/giclocate/mazen-algorithm?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/giclocate/mazen-algorithm?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/giclocate/mazen-algorithm?style=for-the-badge)
-
 <img src="img/labirinto.jpeg" alt="Exemplo imagem">
 
 > O algoritmo A* é utilizado para encontrar o caminho mais curto entre dois pontos em um labirinto, levando em consideração obstáculos e a distância heurística. Este projeto foi desenvolvido em Python e usa bibliotecas como `numpy` e `matplotlib` para gerar e visualizar o labirinto.
